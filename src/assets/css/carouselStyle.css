@@ -1,0 +1,13 @@
+.slider-container {
+   
+              max-width: 100%;
+              max-height: 500px;
+              
+    
+}
+.carousel-caption{
+    top: 50%;
+    transform: translateY(-50%);
+    background: "#2c2c2c";
+    bottom: initial;
+}

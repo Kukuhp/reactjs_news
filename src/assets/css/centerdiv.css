@@ -1,0 +1,39 @@
+.center {
+    display: flex;
+    justify-content: center;
+    max-height: 35px;
+    font-size: 18px; 
+    color: white;
+    
+}
+.carousel-inner {
+
+    max-height: 400px;
+    
+    
+    
+}
+
+.rectangle {
+    height: 100;
+    width: 128;
+    justify-content: center;
+    display: flex;
+}
+
+.margin{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.colorText{
+    color: black;
+}
+
+.background{
+    background: blue;
+}
+
+.paddingTop{
+    padding-top: 20px;
+}
